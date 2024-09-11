@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Monstera Deliciosa",
+      "description": "Monstera Deliciosa is known for its large, distinctive leaves with natural holes. It's an easy-to-care-for houseplant that thrives in indirect sunlight. This plant adds a tropical touch to any room.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGi0KVpLyzJpKl8jY6jrbiCp6zH0dZ2QziQ&s"
+    },
+    {
+      "id": 2,
+      "title": "Snake Plant",
+      "description": "The Snake Plant, or Sansevieria, is a hardy plant that can survive in low light conditions. It’s perfect for beginners as it requires minimal watering. Its tall, sword-like leaves purify the air in your home.",
+      "image": "https://t4.ftcdn.net/jpg/02/20/96/85/360_F_220968501_qbbEWMGfqtOr8e0WlIo1zPlhIcRrMdZ2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Spider Plant",
+      "description": "Spider Plants are known for their arching, grass-like leaves with white stripes. They are excellent for hanging baskets and are easy to propagate. This plant helps remove toxins from the air.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bTTXVhSgnqB3oA_3rzAbYTsGqrmX9xy8q68JePW7-h8JJjOV70gzsNecslI_79QedG4&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Fiddle Leaf Fig",
+      "description": "Fiddle Leaf Figs have large, glossy leaves that make a bold statement in any room. They prefer bright, indirect sunlight and need regular watering. Their unique look adds sophistication to modern spaces.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASnmUDDey9a14VzUSmXf0bPZ2lZhdww1D0Y_yF46REgvFerZqJE-z0yk31-ZlgQuEoE&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "title": "Aloe Vera",
+      "description": "Aloe Vera is a succulent known for its medicinal properties. Its gel can be used to soothe skin and treat minor burns. Aloe thrives in bright, sunny spots and requires little water.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjTqrq96WLkUrcIvDuOu6qug52l0hkU6l8tjEf35kFhaThEkGAeJUAikcmzlWuxtjSdg&usqp=CAU"
+    }
+  ]
+  

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+    <style>
+      @keyframes moveY {
+        0%{
+         transform: translateY(0);
+        }
+        50%{
+          transform: translateY(-10px);
+        }
+        100%{
+ transform: translateY(0);
+        }
+      }
+      @keyframes moveX {
+         0%{
+     transform: translateX(0);
+         }
+         50%{
+transform: translateX(-5px);
+         }
+         100%{
+transform: translateX(0);
+         }
+      }
+    </style>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
